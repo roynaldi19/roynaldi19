@@ -24,8 +24,8 @@ Perkenalkan nama saya **Roynaldi**.
 Kamu Bisa melihat pencapain ku di sini.
 [Google Developer Profile](https://developers.google.com/profile/u/109942276784007177047?utm_source=developer.android.com)
 
-Saya juga memiliki Sertifikat dari Dicoding
-[Kelas Belajar Fundamental Aplikasi Androoid](https://www.dicoding.com/certificates/EYX4RYDWWXDL)
+Saya juga memiliki beberapa Sertifikat
+[Dicoding - Kelas Belajar Fundamental Aplikasi Androoid](https://www.dicoding.com/certificates/EYX4RYDWWXDL)
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun 
 [Linkedin](https://www.linkedin.com/in/roynaldi-781112128/) ku ya.
