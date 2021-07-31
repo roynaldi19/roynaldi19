@@ -21,7 +21,7 @@ Perkenalkan nama saya **Roynaldi**.
 
 Saya Memiliki gelar Sarjana di bidang Teknik Informatika (S.Kom) dari [STMIK Amik Riau](https://sar.ac.id/)
 
-🌱 Saat ini saya sedang belajar menjadi Android Developer dengan Kotlin
+🌱  Saat ini saya sedang belajar menjadi Android Developer dengan Kotlin
 
 Kamu Bisa melihat pencapain ku di sini.
 [Google Developer Profile](https://developers.google.com/profile/u/109942276784007177047?utm_source=developer.android.com)
