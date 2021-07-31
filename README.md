@@ -26,10 +26,13 @@ Kamu Bisa melihat pencapain ku di sini.
 
 Saya juga memiliki beberapa Sertifikat
 
+
 [Dicoding - Kelas Belajar Fundamental Aplikasi Androoid](https://www.dicoding.com/certificates/EYX4RYDWWXDL)
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun 
 [Linkedin](https://www.linkedin.com/in/roynaldi-781112128/) ku ya.
+<br>
+
 
 ### Tech Stack
   <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Kotlin_logo.svg" /></a>
