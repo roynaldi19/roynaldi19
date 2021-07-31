@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Perkenalkan nama saya **Roynaldi**.
 
-Saya Memiliki gelar Sarjana di bidang Teknik Informatika (S.Kom) dari [Stmik Amik Riau]("https://sar.ac.id/")
+Saya Memiliki gelar Sarjana di bidang Teknik Informatika (S.Kom) dari [STMIK Amik Riau](https://sar.ac.id/)
 
 🌱 Saat ini saya sedang belajar menjadi Android Developer dengan Kotlin
 
