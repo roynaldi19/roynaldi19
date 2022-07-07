@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 #  👋 Halo semua! 
 
 Perkenalkan nama saya **Roynaldi**.
+🔭 I’m currently working on PT. Abacus Teknika Solusindo
 
 🌱  Saat ini saya sedang belajar menjadi Android Developer dengan Kotlin
 
