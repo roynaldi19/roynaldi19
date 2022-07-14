@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Perkenalkan nama saya **Roynaldi**.
 
-🔭 Saat ini saya bekerja sebagai IT staff PT. Abacus Teknika Solusindo
+🔭 Saat ini saya bekerja sebagai IT staff di PT. Abacus Teknika Solusindo
 
 🌱  Saya menekuni Android Development dengan bahasa pemograman Kotlin
 
