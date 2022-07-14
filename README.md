@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 Perkenalkan nama saya **Roynaldi**.
 
-🔭 Saat ini saya bekerja sebagai IT staff di PT. Abacus Teknika Solusindo
+🔭 Saat ini saya bekerja sebagai IT staff di PT. Abacus Teknika Solusindo.
 
-🌱  Saya menekuni Android Development dengan bahasa pemograman Kotlin
+🌱  Saya saat ini belajar Android Development dengan bahasa pemograman Kotlin.
 
-Pendiikan Terakhir saya adalah Teknik Informatika (S.Kom) dari [STMIK Amik Riau](https://sar.ac.id/)
+Pendidikan Terakhir saya adalah Teknik Informatika (S.Kom) dari [STMIK Amik Riau](https://sar.ac.id/)
 
 Google Badges
 
