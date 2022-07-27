@@ -33,6 +33,14 @@ Sertifikat
 
 [Dicoding - Kelas Belajar Fundamental Aplikasi Androoid](https://www.dicoding.com/certificates/EYX4RYDWWXDL)
 
+[Dicoding - Kelas Belajar Fundamental Aplikasi Androoid](https://www.dicoding.com/certificates/EYX4RYDWWXDL)
+
+[Dicoding - Kelas Belajar Fundamental Aplikasi Androoid](https://www.dicoding.com/certificates/EYX4RYDWWXDL)
+
+[Dicoding - Kelas Belajar Fundamental Aplikasi Androoid](https://www.dicoding.com/certificates/EYX4RYDWWXDL)
+
+[Dicoding - Kelas Belajar Fundamental Aplikasi Androoid](https://www.dicoding.com/certificates/EYX4RYDWWXDL)
+
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun 
 [Linkedin](https://www.linkedin.com/in/roynaldi-781112128/) ku ya.
 <br>
