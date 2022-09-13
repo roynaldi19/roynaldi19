@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #  👋 Halo semua! 
 
-Perkenalkan nama saya **Roynaldi**.
+Perkenalkan saya **Roynaldi**.
 
 🔭 Saat ini saya bekerja sebagai IT staff (Android Developer) di PT. Abacus Teknika Solusindo.
 
@@ -34,7 +34,7 @@ Sertifikat.
 
 Pendidikan Terakhir saya adalah Teknik Informatika (S.Kom) dari [STMIK Amik Riau](https://sar.ac.id/)
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun 
+Jika kamu tertarik untuk berkenalan denganku, silakan terhubung dengan akun 
 [Linkedin](https://www.linkedin.com/in/roynaldi-781112128/) ku ya.
 <br>
 
