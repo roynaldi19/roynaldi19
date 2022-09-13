@@ -31,15 +31,13 @@ Google Badges
 
 Sertifikat
 
-[Dicoding - Kelas Belajar Fundamental Aplikasi Androoid](https://www.dicoding.com/certificates/EYX4RYDWWXDL)
+[Dicoding - Belajar Pengembangan Aplikasi Android Intermediate](*Segera)
 
-[Dicoding - Kelas Belajar Fundamental Aplikasi Androoid](https://www.dicoding.com/certificates/EYX4RYDWWXDL)
+[Dicoding - Belajar Fundamental Aplikasi Androoid](https://www.dicoding.com/certificates/EYX4RYDWWXDL)
 
-[Dicoding - Kelas Belajar Fundamental Aplikasi Androoid](https://www.dicoding.com/certificates/EYX4RYDWWXDL)
+[Dicoding - Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/certificates/NVP7KK20OZR0)
 
-[Dicoding - Kelas Belajar Fundamental Aplikasi Androoid](https://www.dicoding.com/certificates/EYX4RYDWWXDL)
-
-[Dicoding - Kelas Belajar Fundamental Aplikasi Androoid](https://www.dicoding.com/certificates/EYX4RYDWWXDL)
+[Dicoding - Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/certificates/MRZMDD9QKZYQ)
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun 
 [Linkedin](https://www.linkedin.com/in/roynaldi-781112128/) ku ya.
