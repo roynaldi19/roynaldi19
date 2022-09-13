@@ -21,8 +21,6 @@ Perkenalkan nama saya **Roynaldi**.
 
 🔭 Saat ini saya bekerja sebagai IT staff (Android Developer) di PT. Abacus Teknika Solusindo.
 
-Pendidikan Terakhir saya adalah Teknik Informatika (S.Kom) dari [STMIK Amik Riau](https://sar.ac.id/)
-
 
 Sertifikat.
 
@@ -33,6 +31,8 @@ Sertifikat.
 [Dicoding - Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/certificates/NVP7KK20OZR0)
 
 [Dicoding - Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/certificates/MRZMDD9QKZYQ)
+
+Pendidikan Terakhir saya adalah Teknik Informatika (S.Kom) dari [STMIK Amik Riau](https://sar.ac.id/)
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun 
 [Linkedin](https://www.linkedin.com/in/roynaldi-781112128/) ku ya.
