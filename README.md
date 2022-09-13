@@ -19,17 +19,12 @@ Here are some ideas to get you started:
 
 Perkenalkan nama saya **Roynaldi**.
 
-🔭 Saat ini saya bekerja sebagai IT staff di PT. Abacus Teknika Solusindo.
-
-🌱  Saya saat ini belajar Android Development dengan bahasa pemograman Kotlin.
+🔭 Saat ini saya bekerja sebagai IT staff (Android Developer) di PT. Abacus Teknika Solusindo.
 
 Pendidikan Terakhir saya adalah Teknik Informatika (S.Kom) dari [STMIK Amik Riau](https://sar.ac.id/)
 
-Google Badges
 
-[Google Developer Profile](https://developers.google.com/profile/u/109942276784007177047?utm_source=developer.android.com)
-
-Sertifikat
+Sertifikat.
 
 [Dicoding - Belajar Pengembangan Aplikasi Android Intermediate](*Segera)
 
@@ -42,6 +37,10 @@ Sertifikat
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun 
 [Linkedin](https://www.linkedin.com/in/roynaldi-781112128/) ku ya.
 <br>
+
+Google Badges
+
+[Google Developer Profile](https://developers.google.com/profile/u/109942276784007177047?utm_source=developer.android.com)
 
 
 ### Tech Stack
