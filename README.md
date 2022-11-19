@@ -24,7 +24,6 @@ Perkenalkan saya **Roynaldi**.
 
 Sertifikat.
 
-[Dicoding - Belajar Pengembangan Aplikasi Android Intermediate](*Segera)
 
 [Dicoding - Belajar Fundamental Aplikasi Androoid](https://www.dicoding.com/certificates/EYX4RYDWWXDL)
 
