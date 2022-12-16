@@ -24,6 +24,7 @@ Perkenalkan saya **Roynaldi**.
 
 Sertifikat.
 
+[Dicoding - Belajar Membuat Aplikasi Android dengan Jetpack Compose](https://www.dicoding.com/certificates/ERZR0174QXYV)
 
 [Dicoding - Belajar Fundamental Aplikasi Androoid](https://www.dicoding.com/certificates/EYX4RYDWWXDL)
 
