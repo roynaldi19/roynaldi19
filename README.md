@@ -38,9 +38,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan terhubung dengan akun
 [Linkedin](https://www.linkedin.com/in/roynaldi-781112128/) ku ya.
 <br>
 
-Google Badges
-
-[Google Developer Profile](https://developers.google.com/profile/u/109942276784007177047?utm_source=developer.android.com)
+Google Badges [Google Developer Profile](https://developers.google.com/profile/u/109942276784007177047?utm_source=developer.android.com)
 
 
 ### Tech Stack
