@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 Perkenalkan saya **Roynaldi**.
 
-🔭 Saat ini saya bekerja sebagai IT staff (Android Developer) di PT. Abacus Teknika Solusindo.
-
 
 Sertifikat.
 
