@@ -36,9 +36,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan terhubung dengan akun
 [Linkedin](https://www.linkedin.com/in/roynaldi19/) ku ya.
 <br>
 
-Google Badges [Google Developer Profile](https://developers.google.com/profile/u/109942276784007177047?utm_source=developer.android.com)
-
-
 ### Tech Stack
   <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Kotlin_logo.svg" /></a>
   <a href="#"><img align="left" alt="Android Studio" title="Android Studio" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" /></a>
