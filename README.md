@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Perkenalkan saya **Roynaldi**.
 
 
-Sertifikat.
+Berikut sertifikat yang saya daptkan dalam perjalanan menjadi android developer.
 
 [Dicoding - Belajar Membuat Aplikasi Android dengan Jetpack Compose](https://www.dicoding.com/certificates/ERZR0174QXYV)
 
