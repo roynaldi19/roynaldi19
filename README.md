@@ -35,7 +35,7 @@ Pendidikan Terakhir saya adalah Teknik Informatika (S.Kom) dari [STMIK Amik Riau
 Jika kamu tertarik untuk berkenalan denganku, silakan terhubung dengan akun 
 [Linkedin](https://www.linkedin.com/in/roynaldi19/) ku ya.
 
-cek juga Google [Developer Profile](https://g.dev/roynaldi19) ku ya.
+Cek juga Google [Developer Profile](https://g.dev/roynaldi19) ku ya.
 
 <br>
 
